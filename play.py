@@ -1,4 +1,4 @@
-#!/usr/biin/python
+#!/usr/bin/python
 
 import time
 import re
